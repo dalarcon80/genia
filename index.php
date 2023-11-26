@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Embedded Script</title>
+    <title>Asistente Virtual Cenit</title>
 </head>
 <body>
 
