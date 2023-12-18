@@ -375,7 +375,7 @@
     <!-- Script de Soul Machines... -->
     <script
       src="https://static.soulmachines.com/widget-snippet-1.12.0.min.js"
-      data-sm-api-key="eyJzb3VsSWQiOiJkZG5hLWRhbmllbC1hbGFyY29uLS1hY2NlbnR1cmUtYXZhdGFyIiwiYXV0aFNlcnZlciI6Imh0dHBzOi8vZGguYXouc291bG1hY2hpbmVzLmNsb3VkL2FwaS9qd3QiLCJhdXRoVG9rZW4iOiJhcGlrZXlfdjFfYjcwZGE2MGYtNTFlYy00N2U5LTk1MTctODllZjMxMDZlYmQxIn0="
+      data-sm-api-key="eyJzb3VsSWQiOiJkZG5hLWRhbmllbC1hbGFyY29uLS1hY2NlbnR1cmUiLCJhdXRoU2VydmVyIjoiaHR0cHM6Ly9kaC5hei5zb3VsbWFjaGluZXMuY2xvdWQvYXBpL2p3dCIsImF1dGhUb2tlbiI6ImFwaWtleV92MV84YzJkOGVkYy05OGE3LTQ0NDktYTA3ZS0wYmVjNDI0MGIzODQifQ=="
     ></script>
 
     <script>
