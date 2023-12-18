@@ -153,7 +153,7 @@
 <body>
   <header>
     <div>
-      <img src="https://sallmpocecpsbx.blob.core.windows.net/public/enel.png" alt="Logo Enel" class="logo">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Accenture.svg" alt="Logo Accenture" class="logo">
     </div>
     <div class="title">
       <span>Marketplace de Productos Digitales</span>
